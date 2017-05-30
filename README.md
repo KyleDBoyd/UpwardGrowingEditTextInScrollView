@@ -2,3 +2,4 @@ https://stackoverflow.com/questions/44252175/edittext-in-scrollview-that-grows-u
 
 Attempt #1 (layout:gravity="bottom" on LinearLayout)
 
+![Attempt 1](/growingUpwardEditTextAttempt.gif)
